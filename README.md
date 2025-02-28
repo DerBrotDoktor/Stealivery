@@ -1,4 +1,5 @@
-# Stealivery
+[![Stealivery](ReadmeImages/StealiveryBanner.png)](https://s4g.itch.io/stealivery)
+
  Itch.io Page: https://s4g.itch.io/stealivery
 
  **Stealivery is a 2-player local coop 3D game. By playing in two different modes, you have to prevent your opponent from collecting more points than you.**
